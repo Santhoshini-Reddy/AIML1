@@ -17,3 +17,5 @@ AIML 6:https://github.com/Santhoshini-Reddy/AIML1/blob/main/AIML6.ipynb
 
 
 AIML 7:https://github.com/Santhoshini-Reddy/AIML1/blob/main/Copy_of_AIML7.ipynb
+
+AIML 8 :https://github.com/Santhoshini-Reddy/AIML1/blob/main/AIML8.ipynb
