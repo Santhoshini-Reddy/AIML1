@@ -11,3 +11,6 @@ AIML 4:https://github.com/Santhoshini-Reddy/AIML1/blob/main/AIML4.ipynb
 
 
 AIML 5:https://github.com/Santhoshini-Reddy/AIML1/blob/main/AIML5.ipynb
+
+
+AIML 6:https://github.com/Santhoshini-Reddy/AIML1/blob/main/AIML6.ipynb
